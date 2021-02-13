@@ -1,3 +1,3 @@
 # product-checker
 
-Checking LDLC graphic card
+Checking LDLC graphic card whenever its available
